@@ -1,1 +1,1 @@
-# rd-goldenempire-oss
+# rd-goldenempire-nodes_js
